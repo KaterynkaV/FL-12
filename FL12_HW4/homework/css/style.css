@@ -1,0 +1,92 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background-image: url(../img/home-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 700px;
+	background-size: cover;
+}
+
+
+nav {
+	float: right;
+	display: inline-block;
+	padding: 70px;
+}
+
+.nav-item {
+	text-decoration: none;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: #fff;
+	padding: 0 30px;
+}
+
+.logo {
+	color: #FFF;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-family: 'Open Sans', sans-serif;
+	padding: 70px;
+}
+
+.title p {
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 42px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding: 55px 0 0 0;
+}
+
+h2 {
+	text-align: center;
+	color: #bfba55;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	padding: 0 0 110px 0;
+}
+
+.button-1 {
+	display: block;
+	margin: 0 auto;
+	color: #777 ;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-weight: bolder;
+	border: 3px solid #fff;
+	border-radius: 50px;
+	background-color: #fff;
+	width: 250px;
+	height: 55px;
+}
+
+.icon {
+	border-radius: 100px;
+	width: 40px;
+	height: 40px;
+	margin: 2px;
+}
+.contact-info {
+	color: #777 ;
+	display: inline-flex;
+	flex-direction: row;
+	text-align: left;
+	clear: both;
+}
+.contact-info h3 {
+	color: #FFFFFF;
+}
+
+.footer-items {
+	padding: 45px 45px 10px 10px;
+	background: #000;
+}
+
+
